@@ -50,8 +50,13 @@
       <recent name="E:\Solution\Solution\CodeForce" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.C. Ping-pong">
     <configuration name="A. Strange Functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+  <component name="RunManager" selected="Python.D. Districts Connection">
+    <configuration name="A. Boring Apartments" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> 20da89d45a988d1eca4d5b5aabc4355eb88ad177
       <module name="Solution" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,11 +64,19 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="D:\pyCHarm\Anachonda\envs\Second\python.exe" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeForce/Educational Codeforces Round 99" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeForce/Educational Codeforces Round 99/A. Strange Functions.py" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeForce/   Codeforces Round #677 (Div. 3)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeForce/   Codeforces Round #677 (Div. 3)/A. Boring Apartments.py" />
+>>>>>>> 20da89d45a988d1eca4d5b5aabc4355eb88ad177
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +85,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="B. Jumps" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="B. Yet Another Bookshelf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> 20da89d45a988d1eca4d5b5aabc4355eb88ad177
       <module name="Solution" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,11 +97,19 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="D:\pyCHarm\Anachonda\envs\Second\python.exe" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeForce/Educational Codeforces Round 99" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeForce/Educational Codeforces Round 99/B. Jumps.py" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeForce/   Codeforces Round #677 (Div. 3)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeForce/   Codeforces Round #677 (Div. 3)/B. Yet Another Bookshelf.py" />
+>>>>>>> 20da89d45a988d1eca4d5b5aabc4355eb88ad177
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +118,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="B. Unique Bid Auction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="C. Dominant Piranha" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> 20da89d45a988d1eca4d5b5aabc4355eb88ad177
       <module name="Solution" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,11 +130,19 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="D:\pyCHarm\Anachonda\envs\Second\python.exe" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeForce/Codeforces Round #686 (Div. 3)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeForce/Codeforces Round #686 (Div. 3)/B. Unique Bid Auction.py" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeForce/   Codeforces Round #677 (Div. 3)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeForce/   Codeforces Round #677 (Div. 3)/C. Dominant Piranha.py" />
+>>>>>>> 20da89d45a988d1eca4d5b5aabc4355eb88ad177
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +151,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="C. Ping-pong" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="Croc Champ 2012 - Round 1 Chember of Secrets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> 20da89d45a988d1eca4d5b5aabc4355eb88ad177
       <module name="Solution" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,11 +163,19 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="D:\pyCHarm\Anachonda\envs\Second\python.exe" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeForce/Educational Codeforces Round 99" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeForce/Educational Codeforces Round 99/C. Ping-pong.py" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeForce/Only B" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeForce/Only B/Croc Champ 2012 - Round 1 Chember of Secrets.py" />
+>>>>>>> 20da89d45a988d1eca4d5b5aabc4355eb88ad177
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +184,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="C. Sequence Transformation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="D. Districts Connection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> 20da89d45a988d1eca4d5b5aabc4355eb88ad177
       <module name="Solution" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,11 +196,19 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="D:\pyCHarm\Anachonda\envs\Second\python.exe" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeForce/Codeforces Round #686 (Div. 3)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeForce/Codeforces Round #686 (Div. 3)/C. Sequence Transformation.py" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeForce/   Codeforces Round #677 (Div. 3)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeForce/   Codeforces Round #677 (Div. 3)/D. Districts Connection.py" />
+>>>>>>> 20da89d45a988d1eca4d5b5aabc4355eb88ad177
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,11 +240,19 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Python.C. Ping-pong" />
         <item itemvalue="Python.B. Jumps" />
         <item itemvalue="Python.A. Strange Functions" />
         <item itemvalue="Python.C. Sequence Transformation" />
         <item itemvalue="Python.B. Unique Bid Auction" />
+=======
+        <item itemvalue="Python.D. Districts Connection" />
+        <item itemvalue="Python.C. Dominant Piranha" />
+        <item itemvalue="Python.B. Yet Another Bookshelf" />
+        <item itemvalue="Python.A. Boring Apartments" />
+        <item itemvalue="Python.Croc Champ 2012 - Round 1 Chember of Secrets" />
+>>>>>>> 20da89d45a988d1eca4d5b5aabc4355eb88ad177
       </list>
     </recent_temporary>
   </component>
@@ -213,10 +282,18 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+<<<<<<< HEAD
+=======
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595606512908">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1595606512908" />
+>>>>>>> 20da89d45a988d1eca4d5b5aabc4355eb88ad177
     <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1601633806003">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1601633806003" />
+<<<<<<< HEAD
     <state width="672" height="278" key="GridCell.Tab.0.bottom" timestamp="1606776195709">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -233,5 +310,27 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="672" height="278" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1606776195709" />
+=======
+    <state width="1345" height="236" key="GridCell.Tab.0.bottom" timestamp="1603213509883">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="236" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1603213509883" />
+    <state width="1345" height="236" key="GridCell.Tab.0.center" timestamp="1603213509882">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="236" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1603213509882" />
+    <state width="1345" height="236" key="GridCell.Tab.0.left" timestamp="1603213509882">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="236" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1603213509882" />
+    <state width="1345" height="236" key="GridCell.Tab.0.right" timestamp="1603213509883">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="236" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1603213509883" />
+    <state x="184" y="13" key="SettingsEditor" timestamp="1595606467612">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="13" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1595606467612" />
+>>>>>>> 20da89d45a988d1eca4d5b5aabc4355eb88ad177
   </component>
 </project>
