@@ -1,7 +1,15 @@
 
+a={1,2}
+b={2,3}
 
-
-
+c=[]
+c.append(a)
+c.append(b.copy())
+print(c)
+b.clear()
+b.add(4)
+print(c)
+'''
 from sys import stdin
 import math
 def read():
@@ -19,4 +27,5 @@ if(floorBox!=n):
     a.append(math.floor(extraBox))
 for _ in range(n-floorBox-1):
     a.append(0)
-print(*a)
+
+'''
